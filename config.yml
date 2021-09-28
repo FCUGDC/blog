@@ -20,7 +20,7 @@ menu:
       weight: -30
     - identifier: discord
       name: Discord
-      url: https://discord.gg/
+      url: https://discord.gg/ZkDCb8fmr3
       weight: -20
     - identifier: about
       name: 關於我們
