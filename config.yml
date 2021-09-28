@@ -8,7 +8,7 @@ menu:
   main:
     - identifier: tutorial
       name: 教學講義
-      url: posts/
+      url: tutorial/
       weight: -35
     - identifier: posts
       name: 社團公告
