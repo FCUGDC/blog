@@ -6,8 +6,12 @@ pygmentsUseClasses: true # enable theme-defined highlight style
 baseURL: https://fcugdc.github.io/blog/
 menu:
   main:
+    - identifier: tutorial
+      name: 教學講義
+      url: posts/
+      weight: -35
     - identifier: posts
-      name: 共筆文章
+      name: 社團公告
       url: posts/
       weight: -40
     - identifier: tags
